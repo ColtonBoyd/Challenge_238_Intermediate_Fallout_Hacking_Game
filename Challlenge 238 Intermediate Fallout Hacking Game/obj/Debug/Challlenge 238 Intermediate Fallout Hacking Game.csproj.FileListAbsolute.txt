@@ -1,0 +1,7 @@
+D:\Repos\Challlenge 238 Intermediate Fallout Hacking Game\Challlenge 238 Intermediate Fallout Hacking Game\bin\Debug\Challlenge 238 Intermediate Fallout Hacking Game.exe.config
+D:\Repos\Challlenge 238 Intermediate Fallout Hacking Game\Challlenge 238 Intermediate Fallout Hacking Game\bin\Debug\Challlenge 238 Intermediate Fallout Hacking Game.exe
+D:\Repos\Challlenge 238 Intermediate Fallout Hacking Game\Challlenge 238 Intermediate Fallout Hacking Game\bin\Debug\Challlenge 238 Intermediate Fallout Hacking Game.pdb
+D:\Repos\Challlenge 238 Intermediate Fallout Hacking Game\Challlenge 238 Intermediate Fallout Hacking Game\obj\Debug\Challlenge 238 Intermediate Fallout Hacking Game.csprojAssemblyReference.cache
+D:\Repos\Challlenge 238 Intermediate Fallout Hacking Game\Challlenge 238 Intermediate Fallout Hacking Game\obj\Debug\Challlenge 238 Intermediate Fallout Hacking Game.csproj.CoreCompileInputs.cache
+D:\Repos\Challlenge 238 Intermediate Fallout Hacking Game\Challlenge 238 Intermediate Fallout Hacking Game\obj\Debug\Challlenge 238 Intermediate Fallout Hacking Game.exe
+D:\Repos\Challlenge 238 Intermediate Fallout Hacking Game\Challlenge 238 Intermediate Fallout Hacking Game\obj\Debug\Challlenge 238 Intermediate Fallout Hacking Game.pdb
